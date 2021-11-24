@@ -1,4 +1,4 @@
-const CONTRACT_NAME = 'dino.barbaz.testnet'
+const CONTRACT_NAME = 'dino2.barbaz.testnet'
 
 function getConfig(env) {
   switch (env) {

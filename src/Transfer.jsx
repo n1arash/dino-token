@@ -125,7 +125,8 @@ export default function TransferPage({ accountId, contract }) {
         <h5>Get 100 FREE Dino with Portion of NEAR</h5>
         <p>
           If it's first transaction on you have to do Storage Deposit for DINO
-          Token
+          Token, so try again when you got back from storage deposit
+          transaction.
         </p>
         <form onSubmit={onBuySubmit} className="transfer-form">
           <div className="row center-row">
